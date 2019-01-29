@@ -30,6 +30,7 @@
     "weixin-pay": "^1.1.7"
   },
   "devDependencies": {
+    "eslint": "^5.12.1",
     "nodemon": "^1.11.0"
   },
   "engines": {
